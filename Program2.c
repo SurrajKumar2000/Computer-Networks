@@ -1,7 +1,8 @@
 #include<stdio.h> 
 #include<string.h> 
 #include<stdlib.h> 
-int main() {
+ int main()
+ {
 
 char ip1[25],ip2[25],ip3[25],ip4[25],ip5[25];
 
