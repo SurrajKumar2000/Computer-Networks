@@ -1,7 +1,6 @@
-package ping; 
 import java.io.*; 
 import java.net.*; 
-public class Ping { public static void main(String[] args)
+public class Program1 { public static void main(String[] args)
 {
   try
   {
