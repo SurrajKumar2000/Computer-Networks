@@ -1,7 +1,7 @@
 import java.util.Scanner; 
 import java.io.*; 
 import java.net.*; 
-public class Subnet
+public class Program4
 {
   public static void main(String[] args) 
   {
